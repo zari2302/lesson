@@ -12,6 +12,8 @@ public class Main {
         System.out.println("How old are you: Surname is : " + surName);
         System.out.println("you't nome is:" + name);
         System.out.println( "age:" + age);
+        System.out.println();
+        System.out.println();
     }
 
 }
